@@ -1,13 +1,13 @@
 def base_hash
-  {:railroad => {}}
+  {:railroads => {}}
 end
 
 def monopoly_with_second_tier
-  {:railroad => {:pieces => 4, :rent_in_dollars => {}, :names => {}}}
+  {:railroads => {:pieces => 4, :rent_in_dollars => {}, :names => {}}}
 end
 
 def monopoly_with_third_tier
-  {:railroad => {:pieces => 4, :rent_in_dollars => {}, :names => {}}}
+  {:railroads => {:pieces => 4, :rent_in_dollars => {}, :names => {}}}
 
 end
 
